@@ -32,7 +32,7 @@ Users should be able to:
 ### Links
 
 -   Solution URL:
--   Live Site URL:
+-   Live Site URL: Vercel Link
 
 ### Built with
 
