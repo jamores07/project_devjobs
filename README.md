@@ -32,7 +32,7 @@ Users should be able to:
 ### Links
 
 -   Solution URL:
--   Live Site URL: Vercel Link
+-   Live Site URL: [DevJobs Website](https://project-devjobs.vercel.app/)
 
 ### Built with
 

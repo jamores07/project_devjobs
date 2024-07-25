@@ -25,7 +25,7 @@ export default function ThemeSwitcher() {
                         setEnabled(true)
                     }
                 } else {
-                    if (currentTheme.contains('dark')) {
+                    if (currentTheme.contains('light')) {
                         setTheme('light')
                         setEnabled(false)
                     }
