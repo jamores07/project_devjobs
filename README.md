@@ -25,9 +25,14 @@ Users should be able to:
 -   [x] Be able to click a job from the index page so that they can read more information and apply for the job
 -   [x] **Bonus**: Have the correct color scheme chosen for them based on their computer preferences.
 
-### Screenshot
+## Screenshot
 
-![](./screenshots/HomePage.png)
+#### Home Page
+![Home Page](./screenshots/HomePage.png)
+
+#### Job Page
+![Job Page](./screenshots/JobPage.png)
+
 
 ### Links
 
@@ -94,5 +99,5 @@ export default function RootLayout({
 
 ## Author
 
--   Website -
--   Frontend Mentor -
+-   [LinkedIn] (https://www.linkedin.com/in/john-amores/)
+-   [Frontend Mentor](https://www.frontendmentor.io/profile/jamores07)
